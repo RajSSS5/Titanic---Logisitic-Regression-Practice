@@ -1,4 +1,4 @@
-# Machine-Learning-Python-Practice
-# Titanic---Logistic-Regression-Practice-
-# Titanic---Logistic-Regression-Practice-
-# Titanic---Logistic-Regression-Practice-
+
+Titanic Problem - Logisitic Regression Practice
+
+Jupyter Notebook with comments provided
